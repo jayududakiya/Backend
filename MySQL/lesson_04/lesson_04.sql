@@ -44,3 +44,4 @@ select * from students where city not in ("rajkot","surat");
 -- Limit Clause
 -- Sets an upper limit on number of (tuples)rows to be returned
 select * from students limit 3;
+select * from students limit 3,6;
