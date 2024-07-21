@@ -41,3 +41,10 @@
 // ! step 04 => 
 //* load('fileName.ext')
 // ? load('usersData.js')
+
+// ! Export Documents
+
+// ! step 01 => (ctrl + D) & (ctrl + C) to exit From mongosh
+// ! syntax :- mongoexport -d dataBaseName -c collectionName -o filePathWhereToExport/fileName.ext
+
+// ? mongoexport -d school_db -c students -o D:\SQ_Class\Backend\MongoDB\db_json\exportFile\studentsExp.json
