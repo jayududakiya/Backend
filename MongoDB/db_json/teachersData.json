@@ -1,0 +1,23 @@
+[
+  {
+    "teacherId": 201,
+    "name": "Mr. Smith",
+    "email": "mr.smith@example.com",
+    "hobbies": ["cooking", "cycling", "photography"],
+    "subjects": ["Mathematics", "Physics"]
+  },
+  {
+    "teacherId": 202,
+    "name": "Ms. Johnson",
+    "email": "ms.johnson@example.com",
+    "hobbies": ["writing", "painting", "hiking"],
+    "subjects": ["Science","Chemistry"]
+  },
+  {
+    "teacherId": 203,
+    "name": "Dr. Brown",
+    "email": "dr.brown@example.com",
+    "hobbies": ["hiking", "cooking", "writing"],
+    "subjects": ["History", "Geography"]
+  }
+]

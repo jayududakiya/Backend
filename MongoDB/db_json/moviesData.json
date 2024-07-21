@@ -1,0 +1,515 @@
+[
+    {
+        "movieGenres": "Comedy|Horror",
+        "movieTitle": "Bloodsucking Pharaohs in Pittsburgh",
+        "showDate": "04/03/2024",
+        "showTime": "9:18 PM",
+        "bookSites": 5,
+        "price": "$161.46"
+    },
+    {
+        "movieGenres": "Drama",
+        "movieTitle": "Ray",
+        "showDate": "14/04/2024",
+        "showTime": "7:19 AM",
+        "bookSites": 6,
+        "price": "$170.11"
+    },
+    {
+        "movieGenres": "Comedy|Romance",
+        "movieTitle": "Grand Amour, Le",
+        "showDate": "04/04/2024",
+        "showTime": "8:09 AM",
+        "bookSites": 7,
+        "price": "$701.33"
+    },
+    {
+        "movieGenres": "Documentary",
+        "movieTitle": "José and Pilar (José e Pilar)",
+        "showDate": "14/03/2024",
+        "showTime": "1:27 PM",
+        "bookSites": 1,
+        "price": "$977.59"
+    },
+    {
+        "movieGenres": "Comedy|Documentary",
+        "movieTitle": "Heckler",
+        "showDate": "21/03/2024",
+        "showTime": "3:38 AM",
+        "bookSites": 7,
+        "price": "$222.37"
+    },
+    {
+        "movieGenres": "Comedy|Drama",
+        "movieTitle": "Strategy of the Snail, The (Estrategia del Caracol, La)",
+        "showDate": "09/08/2023",
+        "showTime": "7:04 AM",
+        "bookSites": 7,
+        "price": "$961.80"
+    },
+    {
+        "movieGenres": "Action|Crime|Drama",
+        "movieTitle": "Fear Over the City",
+        "showDate": "12/08/2023",
+        "showTime": "2:11 PM",
+        "bookSites": 1,
+        "price": "$700.32"
+    },
+    {
+        "movieGenres": "Comedy",
+        "movieTitle": "Father of the Bride",
+        "showDate": "19/03/2024",
+        "showTime": "8:24 PM",
+        "bookSites": 4,
+        "price": "$489.00"
+    },
+    {
+        "movieGenres": "Adventure|Documentary",
+        "movieTitle": "Endless Summer 2, The",
+        "showDate": "17/07/2023",
+        "showTime": "11:56 AM",
+        "bookSites": 10,
+        "price": "$687.35"
+    },
+    {
+        "movieGenres": "Drama",
+        "movieTitle": "Four Minutes (Vier Minuten)",
+        "showDate": "23/11/2023",
+        "showTime": "9:45 AM",
+        "bookSites": 2,
+        "price": "$312.96"
+    },
+    {
+        "movieGenres": "Drama",
+        "movieTitle": "Socialism (Film socialisme)",
+        "showDate": "05/07/2024",
+        "showTime": "9:38 PM",
+        "bookSites": 9,
+        "price": "$869.73"
+    },
+    {
+        "movieGenres": "Drama|Horror|Thriller",
+        "movieTitle": "12 Days of Terror",
+        "showDate": "03/07/2024",
+        "showTime": "4:26 AM",
+        "bookSites": 2,
+        "price": "$648.94"
+    },
+    {
+        "movieGenres": "Documentary",
+        "movieTitle": "Shadows of Liberty ",
+        "showDate": "10/06/2024",
+        "showTime": "6:24 AM",
+        "bookSites": 9,
+        "price": "$51.30"
+    },
+    {
+        "movieGenres": "Drama",
+        "movieTitle": "Full Moon in Blue Water",
+        "showDate": "13/04/2024",
+        "showTime": "5:01 PM",
+        "bookSites": 10,
+        "price": "$824.70"
+    },
+    {
+        "movieGenres": "Documentary",
+        "movieTitle": "Amazing Journey: The Story of The Who",
+        "showDate": "06/04/2024",
+        "showTime": "5:39 PM",
+        "bookSites": 7,
+        "price": "$90.92"
+    },
+    {
+        "movieGenres": "Documentary",
+        "movieTitle": "A Justified Life: Sam Peckinpah and the High Country",
+        "showDate": "18/05/2024",
+        "showTime": "10:06 PM",
+        "bookSites": 10,
+        "price": "$452.28"
+    },
+    {
+        "movieGenres": "Drama",
+        "movieTitle": "Brink of Life (Nära livet)",
+        "showDate": "30/11/2023",
+        "showTime": "11:04 PM",
+        "bookSites": 1,
+        "price": "$176.05"
+    },
+    {
+        "movieGenres": "Comedy|Drama|Romance",
+        "movieTitle": "Sex and the City 2",
+        "showDate": "26/04/2024",
+        "showTime": "3:17 AM",
+        "bookSites": 4,
+        "price": "$836.92"
+    },
+    {
+        "movieGenres": "Documentary",
+        "movieTitle": "Our Daily Bread (Unser täglich Brot)",
+        "showDate": "09/01/2024",
+        "showTime": "1:42 PM",
+        "bookSites": 6,
+        "price": "$680.92"
+    },
+    {
+        "movieGenres": "Drama",
+        "movieTitle": "Courage of the Eagles, The (Les aiguilles rouges)",
+        "showDate": "15/12/2023",
+        "showTime": "9:00 AM",
+        "bookSites": 3,
+        "price": "$669.64"
+    },
+    {
+        "movieGenres": "Horror|Sci-Fi",
+        "movieTitle": "Alien Escape",
+        "showDate": "17/11/2023",
+        "showTime": "8:09 PM",
+        "bookSites": 2,
+        "price": "$109.42"
+    },
+    {
+        "movieGenres": "Comedy|Romance",
+        "movieTitle": "Fever Pitch",
+        "showDate": "11/06/2024",
+        "showTime": "3:18 PM",
+        "bookSites": 9,
+        "price": "$290.12"
+    },
+    {
+        "movieGenres": "Drama",
+        "movieTitle": "Distant (Uzak)",
+        "showDate": "28/12/2023",
+        "showTime": "10:00 PM",
+        "bookSites": 5,
+        "price": "$174.62"
+    },
+    {
+        "movieGenres": "Comedy",
+        "movieTitle": "Living with the Fosters",
+        "showDate": "13/10/2023",
+        "showTime": "11:06 PM",
+        "bookSites": 6,
+        "price": "$143.29"
+    },
+    {
+        "movieGenres": "Action",
+        "movieTitle": "Walking Tall",
+        "showDate": "06/05/2024",
+        "showTime": "10:56 PM",
+        "bookSites": 5,
+        "price": "$835.15"
+    },
+    {
+        "movieGenres": "Action|Adventure|Animation|Children|Sci-Fi",
+        "movieTitle": "Kaena: The Prophecy (Kaena: La prophétie)",
+        "showDate": "29/04/2024",
+        "showTime": "1:31 PM",
+        "bookSites": 10,
+        "price": "$852.75"
+    },
+    {
+        "movieGenres": "Children|Comedy|Fantasy",
+        "movieTitle": "Aquamarine",
+        "showDate": "26/12/2023",
+        "showTime": "10:36 AM",
+        "bookSites": 10,
+        "price": "$189.04"
+    },
+    {
+        "movieGenres": "Drama",
+        "movieTitle": "Any Number Can Play",
+        "showDate": "11/12/2023",
+        "showTime": "1:55 AM",
+        "bookSites": 10,
+        "price": "$646.85"
+    },
+    {
+        "movieGenres": "Documentary",
+        "movieTitle": "Year of Living Vicariously, The",
+        "showDate": "26/11/2023",
+        "showTime": "7:55 PM",
+        "bookSites": 1,
+        "price": "$458.29"
+    },
+    {
+        "movieGenres": "Action|Drama|War",
+        "movieTitle": "Aces High",
+        "showDate": "02/01/2024",
+        "showTime": "9:43 PM",
+        "bookSites": 2,
+        "price": "$727.74"
+    },
+    {
+        "movieGenres": "Comedy|Romance",
+        "movieTitle": "Fever Pitch",
+        "showDate": "11/06/2024",
+        "showTime": "3:18 PM",
+        "bookSites": 9,
+        "price": "$290.12",
+        "additionalInfo": {
+            "director": "Bobby Farrelly",
+            "rating": "PG-13"
+        },
+        "cast": ["Drew Barrymore", "Jimmy Fallon", "Jason Spevack"]
+    },
+    {
+        "movieGenres": "Action|Adventure",
+        "movieTitle": "The Avengers",
+        "showDate": "12/06/2024",
+        "showTime": "5:00 PM",
+        "bookSites": 12,
+        "price": "$320.00",
+        "additionalInfo": {
+            "director": "Joss Whedon",
+            "rating": "PG-13"
+        },
+        "cast": ["Robert Downey Jr.", "Chris Evans", "Scarlett Johansson"]
+    },
+    {
+        "movieGenres": "Sci-Fi|Thriller",
+        "movieTitle": "Inception",
+        "showDate": "13/06/2024",
+        "showTime": "7:30 PM",
+        "bookSites": 10,
+        "price": "$350.50",
+        "additionalInfo": {
+            "director": "Christopher Nolan",
+            "rating": "PG-13"
+        },
+        "cast": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Ellen Page"]
+    },
+    {
+        "movieGenres": "Drama|Mystery",
+        "movieTitle": "Gone Girl",
+        "showDate": "14/06/2024",
+        "showTime": "4:45 PM",
+        "bookSites": 8,
+        "price": "$280.75",
+        "additionalInfo": {
+            "director": "David Fincher",
+            "rating": "R"
+        },
+        "cast": ["Ben Affleck", "Rosamund Pike", "Neil Patrick Harris"]
+    },
+    {
+        "movieGenres": "Animation|Family",
+        "movieTitle": "Toy Story",
+        "showDate": "15/06/2024",
+        "showTime": "2:00 PM",
+        "bookSites": 15,
+        "price": "$210.30",
+        "additionalInfo": {
+            "director": "John Lasseter",
+            "rating": "G"
+        },
+        "cast": ["Tom Hanks", "Tim Allen", "Don Rickles"]
+    },
+    {
+        "movieGenres": "Horror|Thriller",
+        "movieTitle": "Get Out",
+        "showDate": "16/06/2024",
+        "showTime": "8:00 PM",
+        "bookSites": 7,
+        "price": "$270.00",
+        "additionalInfo": {
+            "director": "Jordan Peele",
+            "rating": "R"
+        },
+        "cast": ["Daniel Kaluuya", "Allison Williams", "Bradley Whitford"]
+    },
+    {
+        "movieGenres": "Fantasy|Adventure",
+        "movieTitle": "Harry Potter and the Sorcerer's Stone",
+        "showDate": "17/06/2024",
+        "showTime": "3:00 PM",
+        "bookSites": 20,
+        "price": "$400.00",
+        "additionalInfo": {
+            "director": "Chris Columbus",
+            "rating": "PG"
+        },
+        "cast": ["Daniel Radcliffe", "Emma Watson", "Rupert Grint"]
+    },
+    {
+        "movieGenres": "Biography|Drama",
+        "movieTitle": "The Social Network",
+        "showDate": "18/06/2024",
+        "showTime": "6:30 PM",
+        "bookSites": 9,
+        "price": "$290.00",
+        "additionalInfo": {
+            "director": "David Fincher",
+            "rating": "PG-13"
+        },
+        "cast": ["Jesse Eisenberg", "Andrew Garfield", "Justin Timberlake"]
+    },
+    {
+        "movieGenres": "Comedy|Drama",
+        "movieTitle": "Forrest Gump",
+        "showDate": "19/06/2024",
+        "showTime": "5:45 PM",
+        "bookSites": 11,
+        "price": "$310.25",
+        "additionalInfo": {
+            "director": "Robert Zemeckis",
+            "rating": "PG-13"
+        },
+        "cast": ["Tom Hanks", "Robin Wright", "Gary Sinise"]
+    },
+    {
+        "movieGenres": "Musical|Romance",
+        "movieTitle": "La La Land",
+        "showDate": "20/06/2024",
+        "showTime": "7:00 PM",
+        "bookSites": 13,
+        "price": "$330.40",
+        "additionalInfo": {
+            "director": "Damien Chazelle",
+            "rating": "PG-13"
+        },
+        "cast": ["Ryan Gosling", "Emma Stone", "John Legend"]
+    },
+    {
+        "movieGenres": "Action|Thriller",
+        "movieTitle": "Mad Max: Fury Road",
+        "showDate": "21/06/2024",
+        "showTime": "9:00 PM",
+        "bookSites": 14,
+        "price": "$350.00",
+        "additionalInfo": {
+            "director": "George Miller",
+            "rating": "R"
+        },
+        "cast": ["Tom Hardy", "Charlize Theron", "Nicholas Hoult"]
+    },
+    {
+        "movieGenres": "Mystery|Sci-Fi",
+        "movieTitle": "Blade Runner 2049",
+        "showDate": "22/06/2024",
+        "showTime": "8:30 PM",
+        "bookSites": 6,
+        "price": "$270.60",
+        "additionalInfo": {
+            "director": "Denis Villeneuve",
+            "rating": "R"
+        },
+        "cast": ["Ryan Gosling", "Harrison Ford", "Ana de Armas"]
+    },
+    {
+        "movieGenres": "Crime|Drama",
+        "movieTitle": "The Godfather",
+        "showDate": "23/06/2024",
+        "showTime": "6:00 PM",
+        "bookSites": 15,
+        "price": "$300.80",
+        "additionalInfo": {
+            "director": "Francis Ford Coppola",
+            "rating": "R"
+        },
+        "cast": ["Marlon Brando", "Al Pacino", "James Caan"]
+    },
+    {
+        "movieGenres": "Romance|Drama",
+        "movieTitle": "Titanic",
+        "showDate": "24/06/2024",
+        "showTime": "7:15 PM",
+        "bookSites": 18,
+        "price": "$360.45",
+        "additionalInfo": {
+            "director": "James Cameron",
+            "rating": "PG-13"
+        },
+        "cast": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane"]
+    },
+    {
+        "movieGenres": "Sci-Fi|Adventure",
+        "movieTitle": "Star Wars: A New Hope",
+        "showDate": "25/06/2024",
+        "showTime": "4:00 PM",
+        "bookSites": 22,
+        "price": "$400.00",
+        "additionalInfo": {
+            "director": "George Lucas",
+            "rating": "PG"
+        },
+        "cast": ["Mark Hamill", "Harrison Ford", "Carrie Fisher"]
+    },
+    {
+        "movieGenres": "Drama|Romance",
+        "movieTitle": "The Notebook",
+        "showDate": "26/06/2024",
+        "showTime": "5:00 PM",
+        "bookSites": 10,
+        "price": "$270.25",
+        "additionalInfo": {
+            "director": "Nick Cassavetes",
+            "rating": "PG-13"
+        },
+        "cast": ["Ryan Gosling", "Rachel McAdams", "James Garner"]
+    },
+    {
+        "movieGenres": "Drama|Musical",
+        "movieTitle": "The Greatest Showman",
+        "showDate": "27/06/2024",
+        "showTime": "6:15 PM",
+        "bookSites": 16,
+        "price": "$310.00",
+        "additionalInfo": {
+            "director": "Michael Gracey",
+            "rating": "PG"
+        },
+        "cast": ["Hugh Jackman", "Michelle Williams", "Zac Efron"]
+    },
+    {
+        "movieGenres": "Thriller|Mystery",
+        "movieTitle": "The Girl with the Dragon Tattoo",
+        "showDate": "28/06/2024",
+        "showTime": "7:45 PM",
+        "bookSites": 5,
+        "price": "$260.10",
+        "additionalInfo": {
+            "director": "David Fincher",
+            "rating": "R"
+        },
+        "cast": ["Daniel Craig", "Rooney Mara", "Christopher Plummer"]
+    },
+    {
+        "movieGenres": "Fantasy|Drama",
+        "movieTitle": "The Shape of Water",
+        "showDate": "29/06/2024",
+        "showTime": "9:15 PM",
+        "bookSites": 12,
+        "price": "$280.50",
+        "additionalInfo": {
+            "director": "Guillermo del Toro",
+            "rating": "R"
+        },
+        "cast": ["Sally Hawkins", "Octavia Spencer", "Michael Shannon"]
+    },
+    {
+        "movieGenres": "Romance|Fantasy",
+        "movieTitle": "Beauty and the Beast",
+        "showDate": "30/06/2024",
+        "showTime": "3:30 PM",
+        "bookSites": 21,
+        "price": "$400.75",
+        "additionalInfo": {
+            "director": "Bill Condon",
+            "rating": "PG"
+        },
+        "cast": ["Emma Watson", "Dan Stevens", "Luke Evans"]
+    },
+    {
+        "movieGenres": "Comedy|Drama",
+        "movieTitle": "The Grand Budapest Hotel",
+        "showDate": "01/07/2024",
+        "showTime": "5:30 PM",
+        "bookSites": 9,
+        "price": "$290.50",
+        "additionalInfo": {
+            "director": "Wes Anderson",
+            "rating": "R"
+        },
+        "cast": ["Ralph Fiennes", "Tony Revolori", "Saoirse Ronan"]
+    }
+]

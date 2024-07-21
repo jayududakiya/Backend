@@ -1,0 +1,141 @@
+    {
+        "firstName": "Lady",
+        "lastName": "Gaga",
+        "email": "lady.gaga@musicworld.com",
+        "dob": "1986-03-28",
+        "instruments": [
+            "Vocals",
+            "Piano"
+        ],
+        "genres": [
+            "Pop",
+            "Dance",
+            "Electronic"
+        ],
+        "activeYears": 16
+    }
+    {
+        "firstName": "Billie",
+        "lastName": "Eilish",
+        "email": "billie.eilish@musicworld.com",
+        "dob": "2001-12-18",
+        "instruments": [
+            "Vocals",
+            "Piano"
+        ],
+        "genres": [
+            "Pop",
+            "Electropop",
+            "Alternative"
+        ],
+        "activeYears": 7
+    }
+    {
+        "firstName": "Dua",
+        "lastName": "Lipa",
+        "email": "dua.lipa@musicworld.com",
+        "dob": "1995-08-22",
+        "instruments": [
+            "Vocals"
+        ],
+        "genres": [
+            "Pop",
+            "Disco",
+            "Dance Pop"
+        ],
+        "activeYears": 8
+    }
+    {
+        "firstName": "Dua",
+        "lastName": "Lipa",
+        "email": "dua.lipa@musicworld.com",
+        "dob": "1995-08-22",
+        "instruments": [
+            "Vocals"
+        ],
+        "genres": [
+            "Pop",
+            "Disco",
+            "Dance Pop"
+        ],
+        "activeYears": 8
+    }
+    {
+        "firstName": "Adele",
+        "lastName": "Adkins",
+        "email": "adele.adkins@musicworld.com",
+        "dob": "1988-05-05",
+        "instruments": [
+            "Vocals",
+            "Piano"
+        ],
+        "genres": [
+            "Pop",
+            "Soul"
+        ],
+        "activeYears": 16
+    }
+    {
+        "firstName": "Bruno",
+        "lastName": "Mars",
+        "email": "bruno.mars@musicworld.com",
+        "dob": "1985-10-08",
+        "instruments": [
+            "Vocals",
+            "Drums",
+            "Piano"
+        ],
+        "genres": [
+            "Pop",
+            "Funk",
+            "R&B"
+        ],
+        "activeYears": 19
+    }
+    {
+        "firstName": "Beyoncé",
+        "lastName": "Knowles",
+        "email": "beyonce.knowles@musicworld.com",
+        "dob": "1981-09-04",
+        "instruments": [
+            "Vocals"
+        ],
+        "genres": [
+            "Pop",
+            "R&B",
+            "Hip Hop"
+        ],
+        "activeYears": 24
+    }
+    {
+        "firstName": "Justin",
+        "lastName": "Timberlake",
+        "email": "justin.timberlake@musicworld.com",
+        "dob": "1981-01-31",
+        "instruments": [
+            "Vocals",
+            "Guitar",
+            "Piano"
+        ],
+        "genres": [
+            "Pop",
+            "R&B"
+        ],
+        "activeYears": 25
+    }
+    {
+        "firstName": "Taylor",
+        "lastName": "Swift",
+        "email": "taylor.swift@musicworld.com",
+        "dob": "1989-12-13",
+        "instruments": [
+            "Vocals",
+            "Guitar"
+        ],
+        "genres": [
+            "Pop",
+            "Country",
+            "Rock"
+        ],
+        "activeYears": 18
+    }

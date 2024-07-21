@@ -1,0 +1,162 @@
+[
+  {
+    "studentId": 1,
+    "name": "John",
+    "age": 20,
+    "email": "john.doe@example.com",
+    "grade": "A",
+    "class": 12,
+    "rollNo": 101,
+    "teacherId": 201,
+    "marks": {
+      "math": 90,
+      "science": 85,
+      "english": 88,
+      "history": 92
+    }
+  },
+  {
+    "studentId": 2,
+    "name": "Jane",
+    "age": 22,
+    "email": "jane.smith@example.com",
+    "grade": "B",
+    "class": 12,
+    "rollNo": 102,
+    "teacherId": 202,
+    "marks": {
+      "math": 78,
+      "science": 82,
+      "english": 80,
+      "history": 76
+    }
+  },
+  {
+    "studentId": 3,
+    "name": "Michael",
+    "age": 21,
+    "email": "michael.brown@example.com",
+    "grade": "A",
+    "class": 12,
+    "rollNo": 103,
+    "teacherId": 203,
+    "marks": {
+      "math": 88,
+      "science": 90,
+      "english": 85,
+      "history": 89
+    }
+  },
+  {
+    "studentId": 4,
+    "name": "Emily",
+    "age": 19,
+    "email": "emily.davis@example.com",
+    "grade": "C",
+    "class": 11,
+    "rollNo": 104,
+    "teacherId": 201,
+    "marks": {
+      "math": 70,
+      "science": 68,
+      "english": 72,
+      "history": 65
+    }
+  },
+  {
+    "studentId": 5,
+    "name": "Chris",
+    "age": 23,
+    "email": "chris.wilson@example.com",
+    "grade": "B",
+    "class": 12,
+    "rollNo": 105,
+    "teacherId": 202,
+    "marks": {
+      "math": 80,
+      "science": 82,
+      "english": 78,
+      "history": 79
+    }
+  },
+  {
+    "studentId": 6,
+    "name": "Jessica",
+    "age": 20,
+    "email": "jessica.taylor@example.com",
+    "grade": "A",
+    "class": 12,
+    "rollNo": 106,
+    "teacherId": 203,
+    "marks": {
+      "math": 92,
+      "science": 89,
+      "english": 91,
+      "history": 94
+    }
+  },
+  {
+    "studentId": 7,
+    "name": "David",
+    "age": 22,
+    "email": "david.martinez@example.com",
+    "grade": "C",
+    "class": 11,
+    "rollNo": 107,
+    "teacherId": 201,
+    "marks": {
+      "math": 65,
+      "science": 70,
+      "english": 68,
+      "history": 66
+    }
+  },
+  {
+    "studentId": 8,
+    "name": "Sarah",
+    "age": 21,
+    "email": "sarah.lee@example.com",
+    "grade": "B",
+    "class": 12,
+    "rollNo": 108,
+    "teacherId": 202,
+    "marks": {
+      "math": 82,
+      "science": 85,
+      "english": 80,
+      "history": 84
+    }
+  },
+  {
+    "studentId": 9,
+    "name": "Daniel",
+    "age": 19,
+    "email": "daniel.clark@example.com",
+    "grade": "A",
+    "class": 11,
+    "rollNo": 109,
+    "teacherId": 203,
+    "marks": {
+      "math": 90,
+      "science": 88,
+      "english": 87,
+      "history": 92
+    }
+  },
+  {
+    "studentId": 10,
+    "name": "Laura",
+    "age": 23,
+    "email": "laura.rodriguez@example.com",
+    "grade": "C",
+    "class": 11,
+    "rollNo": 110,
+    "teacherId": 201,
+    "marks": {
+      "math": 68,
+      "science": 70,
+      "english": 72,
+      "history": 65
+    }
+  }
+]
