@@ -27,6 +27,9 @@
 // Examples
 // ? db.cars.aggregate([{$group : {_id : "$car_maker"}}])
 // # this was make cars makers company's Group 
+// Examples
+// # make group of only 12 class students by age 
+// ? db.students.aggregate([{$match : {class:12}},{$group : {_id : "$age",stuCount : {$sum : 1}}}])
 
 // ! $sum
 // ? db.cars.aggregate([ {$group : {_id : "$car_maker",showCount:{$sum : 1}}} ])
@@ -40,7 +43,14 @@
 // # count average age of all Documents because of _id is Null  
 
 // ! $push
+// ? db.students.aggregate([ { $group : {_id : "$class" , names : {$push : "$name"}   }  } ])
+// * this $push will show only One Filed at Time Names
 // ? db.students.aggregate([ {$group : {_id : "$class" , students : { $push : {name:"$name",age:"$age"} } }} ])
+// * this $push will show multiple Filed at Time (Names,age )
+
+// ! "$$ROOT"
+// ? db.students.aggregate([ { $group : {_id : "$class" , fullDoc : { $push : "$$ROOT" }}}])
+// * this $push will show full Documents
 
 // ! $min
 // ? db.students.aggregate([ {$group : {_id : "$class" , minAge : {$min : "$age"} }} ])
