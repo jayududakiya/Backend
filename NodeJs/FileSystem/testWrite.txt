@@ -1,0 +1,15 @@
+HELLO THIS IS WRITE FILE CONTENT TEXT 
+ DATE IS : 30/7/2024 , 
+ TIME IS : 6:32:19 PM
+ append Sync Data : hello this is write file content text 
+ date is : 30/7/2024 , 
+ time is : 7:09:00 pm
+ append Data : hello this is write file content text 
+ date is : 30/7/2024 , 
+ time is : 7:09:00 pm
+ append Sync Data : hello this is write file content text 
+ date is : 30/7/2024 , 
+ time is : 7:09:01 pm
+ append Data : hello this is write file content text 
+ date is : 30/7/2024 , 
+ time is : 7:09:01 pm
