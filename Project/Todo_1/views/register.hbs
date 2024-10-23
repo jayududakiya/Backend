@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>Document</title>
+</head>
+<body>
+    <div class="max-w-4xl mx-auto font-[sans-serif] p-6">
+      <div class="text-center mb-16">
+        <a href="javascript:void(0)"><img
+          src="https://readymadeui.com/readymadeui.svg" alt="logo" class='w-52 inline-block' />
+        </a>
+        <h4 class="text-gray-800 text-base font-semibold mt-6">Sign up into your account</h4>
+      </div>
+
+      <form action="api/user/createUser" method="post">
+        <div class="grid sm:grid-cols-2 gap-8">
+          <div>
+            <label class="text-gray-800 text-sm mb-2 block">First Name</label>
+            <input name="firstName" type="text" class="bg-gray-100 w-full text-gray-800 text-sm px-4 py-3.5 rounded-md focus:bg-transparent outline-blue-500 transition-all" placeholder="Enter name" />
+          </div>
+          <div>
+            <label class="text-gray-800 text-sm mb-2 block">Last Name</label>
+            <input name="lastName" type="text" class="bg-gray-100 w-full text-gray-800 text-sm px-4 py-3.5 rounded-md focus:bg-transparent outline-blue-500 transition-all" placeholder="Enter last name" />
+          </div>
+          <div>
+            <label class="text-gray-800 text-sm mb-2 block">Email Id</label>
+            <input name="username" type="text" class="bg-gray-100 w-full text-gray-800 text-sm px-4 py-3.5 rounded-md focus:bg-transparent outline-blue-500 transition-all" placeholder="Enter email" />
+          </div>
+          <div>
+            <label class="text-gray-800 text-sm mb-2 block">Mobile No.</label>
+            <input name="number" type="number" class="bg-gray-100 w-full text-gray-800 text-sm px-4 py-3.5 rounded-md focus:bg-transparent outline-blue-500 transition-all" placeholder="Enter mobile number" />
+          </div>
+          <div>
+            <label class="text-gray-800 text-sm mb-2 block">Password</label>
+            <input name="cpassword" type="password" class="bg-gray-100 w-full text-gray-800 text-sm px-4 py-3.5 rounded-md focus:bg-transparent outline-blue-500 transition-all" placeholder="Enter password" />
+          </div>
+          <div>
+            <label class="text-gray-800 text-sm mb-2 block">Confirm Password</label>
+            <input name="password" type="password" class="bg-gray-100 w-full text-gray-800 text-sm px-4 py-3.5 rounded-md focus:bg-transparent outline-blue-500 transition-all" placeholder="Enter confirm password" />
+          </div>
+        </div>
+          <div class="!mt-12">
+            <button type="submit" class="w-full py-3 px-4 text-sm tracking-wider font-semibold rounded-md text-white bg-blue-600 hover:bg-blue-700 focus:outline-none">
+              Registration
+            </button>
+          </div>
+          <p class="text-gray-800 text-sm mt-6 text-center">Have Already an Account? <a href="/login" class="text-blue-600 font-semibold hover:underline ml-1">login here</a></p>
+      </form>
+    </div>
+</body>
+</html>

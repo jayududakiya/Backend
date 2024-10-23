@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Todo's</h1>
+    <p>show user name</p>
+    <form action="api/todo/createTodo" method="post">
+       <input type="text" name="todoText" id=""> 
+       <button type="submit">Add Todo</button>
+    </form>
+    <ul class="allTodo">
+        {{!-- {{#each todos}} --}}
+            <li> test 01</li>
+        {{!-- {{/each}} --}}
+    </ul>
+</body>
+</html>
